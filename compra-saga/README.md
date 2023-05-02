@@ -49,4 +49,13 @@ If you want to learn more about building native executables, please consult http
 
 ## Related Guides
 
+- RESTEasy Classic ([guide](https://quarkus.io/guides/resteasy)): REST endpoint framework implementing JAX-RS and more
 - Camel Saga ([guide](https://camel.apache.org/camel-quarkus/latest/reference/extensions/saga.html)): Execute custom actions within a route using the Saga EIP
+
+## Provided Code
+
+### RESTEasy JAX-RS
+
+Easily start your RESTful Web Services
+
+[Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
